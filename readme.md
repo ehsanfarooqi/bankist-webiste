@@ -1,3 +1,3 @@
 # Bankist Website
 
-Built using modern technologies HTML, CSS, JavaScript
+Built using modern technologies JavaScript, HTML, CSS,
